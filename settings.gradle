@@ -1,2 +1,3 @@
 rootProject.name = 'nexus'
 include 'nexus-core'
+include 'nexus-jdbc'
